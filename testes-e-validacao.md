@@ -1,5 +1,5 @@
 
-O trabalho passou por 8 principais versões/funcionalidades, sendo validadas conforme descrito a seguir.
+## O trabalho passou por 8 principais versões/funcionalidades, sendo validadas conforme descrito a seguir.
 
 ### v1 - Acionamento das luzes LED:
 
