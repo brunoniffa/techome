@@ -1,2 +1,2 @@
-# techome
-Projeto de TCC
+# Projeto de TCC - TecHome
+## Automação Residencial
