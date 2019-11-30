@@ -2,7 +2,7 @@
 ## Pontos positivos
 
 - Integração ocorrendo de maneira transparente entre os sensores
-- Me sinto mais confiante para trabalhar com o arduino
+- Maior confiança para trabalhar com o arduino
 - Comunicação via radio frequência validada, podendo chegar a um alcance de até 100 metros
 
 ## Pontos negativos
