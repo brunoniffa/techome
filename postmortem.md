@@ -2,9 +2,9 @@
 ```diff
 - text in red
 + text in green
-! text in orange
+! text in blue
 # text in gray
-```
+
 
 ## <div class="text-blue">Pontos positivos</div>
 
@@ -20,3 +20,5 @@
 - Limitação de memória das variáveis globais (Uno - 2,000 bytes e Mega - 8,000 bytes)
 - Atrasos devido a falhas em sensores e jumpers danificados
 - Microfone não possui a sensibilidade ideal para a interpretação do Jarvis
+
+```
