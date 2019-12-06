@@ -1,4 +1,11 @@
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+
 ## <div class="text-blue">Pontos positivos</div>
 
 - Integração ocorrendo de maneira transparente entre os sensores
