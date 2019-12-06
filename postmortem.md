@@ -4,6 +4,7 @@
 - Integração ocorrendo de maneira transparente entre os sensores
 - Maior confiança para trabalhar com o arduino
 - Comunicação via radio frequência validada, podendo chegar a um alcance de até 100 metros
+- Validada a possibilidade de automação sem depender de dispositivos (celulares, tablets, etc) ou internet
 
 ## Pontos negativos
 
