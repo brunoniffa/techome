@@ -1,12 +1,5 @@
 
-```diff
-- text in red
-+ text in green
-! text in blue
-# text in gray
-
-
-## <div class="text-blue">Pontos positivos</div>
+## Pontos positivos
 
 - Integração ocorrendo de maneira transparente entre os sensores
 - Maior confiança para trabalhar com o arduino
@@ -20,5 +13,3 @@
 - Limitação de memória das variáveis globais (Uno - 2,000 bytes e Mega - 8,000 bytes)
 - Atrasos devido a falhas em sensores e jumpers danificados
 - Microfone não possui a sensibilidade ideal para a interpretação do Jarvis
-
-```
