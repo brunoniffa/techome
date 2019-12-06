@@ -1,5 +1,5 @@
 
-## <div class="bg-blue-light">Pontos positivos</div>
+## <div class="text-blue">Pontos positivos</div>
 
 - Integração ocorrendo de maneira transparente entre os sensores
 - Maior confiança para trabalhar com o arduino
